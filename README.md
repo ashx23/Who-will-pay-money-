@@ -1,13 +1,5 @@
 ## Who's Paying
 
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
-Login to your Udemy course and head over to the link below to get the sign up link:
-
-[Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
-
 # Instructions
 
 You are going to write a program which will select a random name from a list of names. The person selected will have to pay for everybody's food bill. 
@@ -27,16 +19,3 @@ Note: notice that there is a space between the comma and the next name.
 ```
 Michael is going to buy the meal today!
 ```
-
-
-# Hint
-
-1. You might need the help of the `len()` function.   
-
-[https://stackoverflow.com/questions/1712227/how-do-i-get-the-number-of-elements-in-a-list](https://stackoverflow.com/questions/1712227/how-do-i-get-the-number-of-elements-in-a-list)
-
-2. Remember that Lists start at index 0!
-
-# Solution
-
-[https://repl.it/@appbrewery/day-4-2-solution](https://repl.it/@appbrewery/day-4-2-solution)
